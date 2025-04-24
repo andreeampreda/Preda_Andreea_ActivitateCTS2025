@@ -3,14 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Preda_Andreea_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Preda_Andreea_ActivitateCTS2025.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab5BuilderV1/lab5BuilderV1.iml" filepath="$PROJECT_DIR$/lab5BuilderV1/lab5BuilderV1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab5BuilderV2/lab5BuilderV2.iml" filepath="$PROJECT_DIR$/lab5BuilderV2/lab5BuilderV2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab5FactoryMethod/lab5FactoryMethod.iml" filepath="$PROJECT_DIR$/lab5FactoryMethod/lab5FactoryMethod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lab6Adapter/lab6Adapter.iml" filepath="$PROJECT_DIR$/lab6Adapter/lab6Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/composite/composite.iml" filepath="$PROJECT_DIR$/inwork/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/exCurs.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/exCurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/facade/exCursFacade/exCursFacade.iml" filepath="$PROJECT_DIR$/inwork/facade/exCursFacade/exCursFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/facade/facade.iml" filepath="$PROJECT_DIR$/inwork/facade/facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/facade/exCursFacade/hotel/hotel.iml" filepath="$PROJECT_DIR$/inwork/facade/exCursFacade/hotel/hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/inwork.iml" filepath="$PROJECT_DIR$/inwork/inwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab1/lab1.iml" filepath="$PROJECT_DIR$/labs/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab2/lab2.iml" filepath="$PROJECT_DIR$/labs/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab3/lab3.iml" filepath="$PROJECT_DIR$/labs/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab4/lab4.iml" filepath="$PROJECT_DIR$/labs/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab5BuilderV1/lab5BuilderV1.iml" filepath="$PROJECT_DIR$/labs/lab5BuilderV1/lab5BuilderV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab5BuilderV2/lab5BuilderV2.iml" filepath="$PROJECT_DIR$/labs/lab5BuilderV2/lab5BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab5FactoryMethod/lab5FactoryMethod.iml" filepath="$PROJECT_DIR$/labs/lab5FactoryMethod/lab5FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab6Adapter/lab6Adapter.iml" filepath="$PROJECT_DIR$/labs/lab6Adapter/lab6Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/proxy/workathome/workathome.iml" filepath="$PROJECT_DIR$/inwork/proxy/workathome/workathome.iml" />
     </modules>
   </component>
 </project>

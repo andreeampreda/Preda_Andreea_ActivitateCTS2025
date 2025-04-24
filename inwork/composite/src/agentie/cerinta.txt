@@ -1,0 +1,6 @@
+Agențiadorește realizarea unei aplicații software în care meniul să fie
+organizat într-o structură arborescentă pe categorii. Fiecare categorie
+poate conține alte subcategorii cu opțiuni, pe care operatorul să le
+acceseze. Astfel rezultă o structură ierarhică cu toate opțiunile.
+Să se implementeze modulul pentru generarea meniului aplicației
+software dorite de agenția de turism
