@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/inwork/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/inwork/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/Facade/Facade.iml" filepath="$PROJECT_DIR$/inwork/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Preda_Andreea_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Preda_Andreea_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/composite/composite.iml" filepath="$PROJECT_DIR$/inwork/composite/composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/exCurs.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/exCurs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/facade/exCursFacade/exCursFacade.iml" filepath="$PROJECT_DIR$/inwork/facade/exCursFacade/exCursFacade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/facade/facade.iml" filepath="$PROJECT_DIR$/inwork/facade/facade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/facade/exCursFacade/hotel/hotel.iml" filepath="$PROJECT_DIR$/inwork/facade/exCursFacade/hotel/hotel.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/inwork.iml" filepath="$PROJECT_DIR$/inwork/inwork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/labs/lab1/lab1.iml" filepath="$PROJECT_DIR$/labs/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab10/lab10.iml" filepath="$PROJECT_DIR$/labs/lab10/lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab1_Singleton/lab1_Singleton.iml" filepath="$PROJECT_DIR$/labs/lab1_Singleton/lab1_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab2/lab2.iml" filepath="$PROJECT_DIR$/labs/lab2/lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab3/lab3.iml" filepath="$PROJECT_DIR$/labs/lab3/lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab4/lab4.iml" filepath="$PROJECT_DIR$/labs/lab4/lab4.iml" />
@@ -17,7 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/labs/lab5BuilderV2/lab5BuilderV2.iml" filepath="$PROJECT_DIR$/labs/lab5BuilderV2/lab5BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab5FactoryMethod/lab5FactoryMethod.iml" filepath="$PROJECT_DIR$/labs/lab5FactoryMethod/lab5FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab6Adapter/lab6Adapter.iml" filepath="$PROJECT_DIR$/labs/lab6Adapter/lab6Adapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/labs/lab7/lab7.iml" filepath="$PROJECT_DIR$/labs/lab7/lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab7_Facade_Decorator_Proxy/lab7_Facade_Decorator_Proxy.iml" filepath="$PROJECT_DIR$/labs/lab7_Facade_Decorator_Proxy/lab7_Facade_Decorator_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab8/lab8.iml" filepath="$PROJECT_DIR$/labs/lab8/lab8.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" />
