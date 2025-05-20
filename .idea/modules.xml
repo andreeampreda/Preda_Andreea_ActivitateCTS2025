@@ -18,7 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/labs/lab5FactoryMethod/lab5FactoryMethod.iml" filepath="$PROJECT_DIR$/labs/lab5FactoryMethod/lab5FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab6Adapter/lab6Adapter.iml" filepath="$PROJECT_DIR$/labs/lab6Adapter/lab6Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab7_Facade_Decorator_Proxy/lab7_Facade_Decorator_Proxy.iml" filepath="$PROJECT_DIR$/labs/lab7_Facade_Decorator_Proxy/lab7_Facade_Decorator_Proxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/labs/lab8/lab8.iml" filepath="$PROJECT_DIR$/labs/lab8/lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab8_Composite_Flyweight/lab8_Composite_Flyweight.iml" filepath="$PROJECT_DIR$/labs/lab8_Composite_Flyweight/lab8_Composite_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/lab9_Strategy_Observer/lab9_Strategy_Observer.iml" filepath="$PROJECT_DIR$/labs/lab9_Strategy_Observer/lab9_Strategy_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/proxy/workathome/workathome.iml" filepath="$PROJECT_DIR$/inwork/proxy/workathome/workathome.iml" />
