@@ -2,7 +2,6 @@ package agentie.clase.clase;
 
 import agentie.clase.inchirieremasini.Masina;
 import agentie.clase.inchirieremasini.MasinaInchiriata;
-import agentie.clase.clase.PachetTuristic;
 
 public class PachetInchiriereMasina extends MasinaInchiriata implements PachetTuristic {
 

@@ -1,7 +1,5 @@
 package agentie.clase.clase;
 
-import agentie.clase.clase.PachetTuristic;
-
 public class PachetCazare implements PachetTuristic {
     @Override
     public void descriere() {

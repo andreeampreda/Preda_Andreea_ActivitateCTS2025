@@ -5,7 +5,6 @@ import agentie.clase.clase.PachetInchiriereMasina;
 import agentie.clase.clase.PachetTuristic;
 import agentie.clase.inchirieremasini.Masina;
 import agentie.clase.inchirieremasini.MasinaInchiriata;
-import agentie.obiecte.classes.PachetMasinaInchiriata;
 
 public class Program {
     private static void printeazaRezervare(PachetTuristic pachetTuristic) {

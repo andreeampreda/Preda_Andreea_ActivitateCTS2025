@@ -1,8 +1,9 @@
 package Spital.clase;
 
 public class Facade {
-    public void internarePacient(Pacient pacient, Salon salon){
+    public void verificarePacient(Pacient pacient, Salon salon){
         Medic medic=new Medic();
+
 
         if(medic.esteInStareGrava(pacient)){
             if(salon.isArePaturiLibere()){
