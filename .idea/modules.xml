@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/inwork/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/inwork/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/Composite/Composite.iml" filepath="$PROJECT_DIR$/inwork/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/inwork/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/Facade/Facade.iml" filepath="$PROJECT_DIR$/inwork/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/inwork/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Preda_Andreea_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Preda_Andreea_ActivitateCTS2025.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/composite/composite.iml" filepath="$PROJECT_DIR$/inwork/composite/composite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/exCurs.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/exCurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inwork/Proxy/exCurs/Proxy.iml" filepath="$PROJECT_DIR$/inwork/Proxy/exCurs/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/inwork/inwork.iml" filepath="$PROJECT_DIR$/inwork/inwork.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab10_ChainOfR_Template/lab10_ChainOfR_Template.iml" filepath="$PROJECT_DIR$/labs/lab10_ChainOfR_Template/lab10_ChainOfR_Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab1_Singleton/lab1_Singleton.iml" filepath="$PROJECT_DIR$/labs/lab1_Singleton/lab1_Singleton.iml" />
@@ -22,8 +23,6 @@
       <module fileurl="file://$PROJECT_DIR$/labs/lab8_Composite_Flyweight/lab8_Composite_Flyweight.iml" filepath="$PROJECT_DIR$/labs/lab8_Composite_Flyweight/lab8_Composite_Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/lab9_Strategy_Observer/lab9_Strategy_Observer.iml" filepath="$PROJECT_DIR$/labs/lab9_Strategy_Observer/lab9_Strategy_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs/labs.iml" filepath="$PROJECT_DIR$/labs/labs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" filepath="$PROJECT_DIR$/inwork/proxy/exCurs/proxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inwork/proxy/workathome/workathome.iml" filepath="$PROJECT_DIR$/inwork/proxy/workathome/workathome.iml" />
     </modules>
   </component>
 </project>

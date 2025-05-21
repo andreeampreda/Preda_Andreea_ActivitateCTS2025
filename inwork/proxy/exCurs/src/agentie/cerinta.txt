@@ -1,4 +1,0 @@
-Agenția ia hotărârea că pachetele de transport din ofertă pot fi rezervate
-doar de către pensionari – persoane cu vârsta peste 65 de ani.
-Să se implementeze un nivel intermediar care să permită realizarea
-rezervării doar pentru persoanele cu vârsta peste 65 de ani

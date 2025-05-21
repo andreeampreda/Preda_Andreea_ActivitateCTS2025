@@ -1,4 +1,0 @@
- Camerele rezervate la Hotel au anularea rezervării în mod gratuit. Managerul
- ia decizia ca această anulare să fie gratuită doar pentru rezervările de maxim
- o noapte. Să se implementeze un modul prin care să se permită anularea
- rezervării doar pentru rezervările de cel mult o noapte.

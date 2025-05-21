@@ -1,6 +1,4 @@
-Agențiadorește realizarea unei aplicații software în care meniul să fie
-organizat într-o structură arborescentă pe categorii. Fiecare categorie
-poate conține alte subcategorii cu opțiuni, pe care operatorul să le
-acceseze. Astfel rezultă o structură ierarhică cu toate opțiunile.
-Să se implementeze modulul pentru generarea meniului aplicației
-software dorite de agenția de turism
+Este dorita reprezentarea meniului in cadrul aplicației. Meniul conține secțiuni (startere,
+băuturi, desert, etc.) fiecare secțiune poate conține subsecțiuni (sucuri, cafea, etc) sau item-uri (,
+apa plata, apa minerala, etc). Sa se realizeze modulul care permite reprezentarea arborescenta a
+meniului restaurantului.

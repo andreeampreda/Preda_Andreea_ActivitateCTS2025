@@ -1,8 +1,8 @@
 package composite.main;
 
-import composite.classes.Departament;
-import composite.classes.IStructura;
-import composite.classes.Sectie;
+import composite.clase.Departament;
+import composite.clase.IStructura;
+import composite.clase.Sectie;
 
 public class Main {
     public static void main(String[] args) {
